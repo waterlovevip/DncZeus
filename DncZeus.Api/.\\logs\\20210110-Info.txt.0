@@ -1,0 +1,6 @@
+2021-01-10 12:57:06,492 [1] INFO  Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager [(null)]  - User profile is available. Using '/Users/sky/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2021-01-10 12:57:15,355 [10] INFO  Microsoft.AspNetCore.Hosting.Diagnostics [(null)]  - Request starting HTTP/1.1 GET http://localhost:54321/  
+2021-01-10 12:57:15,595 [10] INFO  Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware [(null)]  - Sending file. Request path: '/index.html'. Physical path: '/Volumes/SYS/Tgit/DncZeus/DncZeus.Api/wwwroot/index.html'
+2021-01-10 12:57:15,601 [10] INFO  Microsoft.AspNetCore.Hosting.Diagnostics [(null)]  - Request finished in 263.6146ms 200 text/html
+2021-01-10 12:57:15,887 [8] INFO  Microsoft.AspNetCore.Hosting.Diagnostics [(null)]  - Request starting HTTP/1.1 GET http://localhost:54321/favicon.ico  
+2021-01-10 12:57:16,147 [8] INFO  Microsoft.AspNetCore.Hosting.Diagnostics [(null)]  - Request finished in 259.5675ms 404 
